@@ -1,0 +1,9 @@
+[database]
+system=
+username=
+password=
+host=
+database=
+
+[slack]
+token=
