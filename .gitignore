@@ -1,9 +1,2 @@
-puphpet/config-custom.yaml
-.vagrant
-html
-puphpet
-.gitattributes
-Vagrantfile
-.idea
 venv
 settings.cfg
